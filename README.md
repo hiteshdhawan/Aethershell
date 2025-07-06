@@ -1,6 +1,5 @@
 
 # AetherShell
-![GitHub stars](https://img.shields.io/github/stars/hiteshdhawan/Aethershell?style=social)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
