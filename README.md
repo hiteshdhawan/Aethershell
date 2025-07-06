@@ -163,6 +163,8 @@ python assistant.py
 This project uses the following model via llama-cpp-python:
 mistral-7b-instruct-v0.1.Q4_K_M.gguf (Auto downloaded using setup.sh)
 
+**Execution speed may vary depending on your system specs.**
+
 ## How to Fork and Contribute
 
 1. **Fork** this repository by clicking the "Fork" button on the top right.
