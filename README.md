@@ -86,7 +86,7 @@ python assistant.py
 This project uses the following model via llama-cpp-python:
 mistral-7b-instruct-v0.1.Q4_K_M.gguf (Auto downloaded using setup.sh)
 
-## 🛠️ How to Fork and Contribute
+## How to Fork and Contribute
 
 1. **Fork** this repository by clicking the "Fork" button on the top right.
 2. **Clone** your fork locally:
@@ -118,7 +118,7 @@ Built and maintained by [Hitesh Dhawan](https://github.com/hiteshdhawan)
 
 Thanks to the open-source LLM and Python communities for providing the resources.
 
-## 📣 Feedback
+## Feedback
 
 Have ideas, suggestions, or found a bug?  
 Please open an [Issue](https://github.com/hiteshdhawan/Aethershell/issues) or start a [Discussion](https://github.com/hiteshdhawan/Aethershell/discussions) — your feedback is welcome!
