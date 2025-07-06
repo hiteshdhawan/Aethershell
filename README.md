@@ -36,6 +36,7 @@ Powered by `llama-cpp` and Mistral-7B, AetherShell runs entirely offline on your
 
 > “List the 10 biggest files in this directory.”
 
+AetherShell understands and converts it to:
 ```bash
 du -ah | sort -rh | head -n 10
 ```
@@ -84,9 +85,10 @@ All features work without an internet connection.
 ### 6. Optional Cloud Fallback (WIP)
 Future support for hybrid execution using cloud models when needed.
 
-- Seamless switch to cloud  
+- Seamless switch to cloud using claude, gemini, etc. 
 - Useful for low-end systems  
 - Still prioritizes local-first privacy
+- This feature will only be executed, if allowed by the user.
 
 ---
 
@@ -96,6 +98,7 @@ AetherShell will feature isolated environments to run commands securely.
 - Limits system-level access  
 - Helps prevent accidental damage  
 - Ideal for testing and sandboxed execution
+- Ideal for script development.
 
 ---
 
