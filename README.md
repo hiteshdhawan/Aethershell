@@ -1,14 +1,20 @@
-
 # AetherShell
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+[![Latest Release](https://img.shields.io/github/v/release/hiteshdhawan/Aethershell?label=Download%20Latest)](https://github.com/hiteshdhawan/Aethershell/releases)
 
-[![Releases](https://img.shields.io/github/v/release/hiteshdhawan/Aethershell?label=Latest%20Release)](https://github.com/hiteshdhawan/Aethershell/releases)
+**AetherShell** is an AI-powered, offline Linux shell assistant that interprets natural language, plans tasks, and securely executes commands using a local LLM (Mistral-7B). Designed for privacy-first terminal automation.
 
+---
 
-AetherShell is an AI-native Linux assistant that understands high-level natural language tasks and autonomously plans, executes, and validates actions using a local LLM (Mistral) without internet dependency.
+## 🚀 Why AetherShell?
 
-It bridges the gap between natural language and real-time shell execution in a fully isolated, self-contained environment.
+- **Offline and Secure:** No internet dependency — all AI runs locally.
+- **Natural Language Interface:** Replace cryptic shell syntax with plain English.
+- **Local LLM:** Integrates `llama-cpp` and Mistral for fast, private AI inference.
+- **Productive by Design:** Multi-step command execution and persistent memory.
+- **Ideal For:** Developers, sysadmins, AI enthusiasts, and privacy-conscious users.
+
 
 ---
 
@@ -201,3 +207,24 @@ Thanks to the open-source LLM and Python communities for providing the resources
 
 Have ideas, suggestions, or found a bug?  
 Please open an [Issue](https://github.com/hiteshdhawan/Aethershell/issues) or start a [Discussion](https://github.com/hiteshdhawan/Aethershell/discussions) — your feedback is welcome!
+
+## Keywords
+
+This project is relevant to the following keywords and phrases:
+
+- AI shell assistant  
+- Linux terminal automation  
+- Natural language to bash commands  
+- Offline LLM-powered shell  
+- Local AI terminal assistant  
+- Open-source terminal automation  
+- Mistral-7B Linux integration  
+- llama-cpp for shell tasks  
+- Natural language interface for Linux  
+- Secure and private AI command execution  
+- CLI-based AI assistant  
+- Developer productivity tool with AI  
+- Shell assistant for sysadmins  
+- Offline DevOps automation  
+- Python-powered AI shell agent
+
