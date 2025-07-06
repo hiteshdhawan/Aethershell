@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Why AetherShell?
+##  Why AetherShell?
 
 - **Offline and Secure:** No internet dependency — all AI runs locally.
 - **Natural Language Interface:** Replace cryptic shell syntax with plain English.
