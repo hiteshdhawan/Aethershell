@@ -1,5 +1,9 @@
 
 # AetherShell
+![GitHub stars](https://img.shields.io/github/stars/hiteshdhawan/Aethershell?style=social)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+[![Releases](https://img.shields.io/github/v/release/hiteshdhawan/Aethershell?label=Latest%20Release)](https://github.com/hiteshdhawan/Aethershell/releases)
+
 
 AetherShell is an AI-native Linux assistant that understands high-level natural language tasks and autonomously plans, executes, and validates actions using a local LLM (Mistral) without internet dependency.
 
@@ -80,6 +84,9 @@ python assistant.py
 This project uses the following model via llama-cpp-python:
 mistral-7b-instruct-v0.1.Q4_K_M.gguf (Auto downloaded using setup.sh)
 
+## Acknowledgements
 
+Created by [Hitesh Dhawan](https://github.com/hiteshdhawan).  
+Thanks to the open-source LLM and Python communities for providing the resources.
 
 
