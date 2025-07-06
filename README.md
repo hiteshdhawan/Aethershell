@@ -1,7 +1,9 @@
 
 # AetherShell
 ![GitHub stars](https://img.shields.io/github/stars/hiteshdhawan/Aethershell?style=social)
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
 [![Releases](https://img.shields.io/github/v/release/hiteshdhawan/Aethershell?label=Latest%20Release)](https://github.com/hiteshdhawan/Aethershell/releases)
 
 
@@ -84,9 +86,39 @@ python assistant.py
 This project uses the following model via llama-cpp-python:
 mistral-7b-instruct-v0.1.Q4_K_M.gguf (Auto downloaded using setup.sh)
 
+## 🛠️ How to Fork and Contribute
+
+1. **Fork** this repository by clicking the "Fork" button on the top right.
+2. **Clone** your fork locally:
+
+   ```bash
+   git clone https://github.com/your-username/Aethershell.git
+   cd Aethershell
+   ```
+3. Create a **branch** for your feature or fix:
+   
+   ```bash
+   git checkout -b your-feature-name
+   ```
+4. Make your changes, commit, and push:
+
+   ```bash
+   git add .
+   git commit -m "Your message"
+   git push origin your-feature-name
+   ```
+
+5. Open a Pull Request on GitHub and wait for review.
+
+##  Author
+
+Built and maintained by [Hitesh Dhawan](https://github.com/hiteshdhawan)
+
 ## Acknowledgements
 
-Created by [Hitesh Dhawan](https://github.com/hiteshdhawan).  
 Thanks to the open-source LLM and Python communities for providing the resources.
 
+## 📣 Feedback
 
+Have ideas, suggestions, or found a bug?  
+Please open an [Issue](https://github.com/hiteshdhawan/Aethershell/issues) or start a [Discussion](https://github.com/hiteshdhawan/Aethershell/discussions) — your feedback is welcome!
