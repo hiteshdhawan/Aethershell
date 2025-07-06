@@ -12,15 +12,90 @@ It bridges the gap between natural language and real-time shell execution in a f
 
 ---
 
-## Features
+## Features — Smarter, Safer, AI-Enhanced Terminal
 
-- Natural language command understanding
-- Local LLM integration via `llama-cpp`
-- Dynamic multi-step action planning and execution
-- Memory persistence (JSON-based context)
-- Offline capability (Works completely offline using local model.)
-- Optional cloud fallback support (WIP)
-- Secure Sandbox (WIP)
+### 1. Natural Language Shell Commands
+Interact with your Linux terminal in plain English:
+
+> “Create a folder called `test` and open it.”
+
+AetherShell understands and converts it to:
+
+```bash
+mkdir test && cd test
+```
+
+- Skip memorizing complex syntax  
+- Ideal for both beginners and advanced users  
+- Fast, intuitive command translation
+
+---
+
+### 2. Local AI Integration (LLM-powered)
+Powered by `llama-cpp` and Mistral-7B, AetherShell runs entirely offline on your machine.
+
+> “List the 10 biggest files in this directory.”
+
+```bash
+du -ah | sort -rh | head -n 10
+```
+
+- No internet required  
+- Maximum privacy and performance  
+- Works on air-gapped systems
+
+---
+
+### 3. Dynamic Multi-Step Execution
+AetherShell understands and executes multi-step tasks intelligently.
+
+> “Install Python, create a virtual environment, and activate it.”
+
+```bash
+sudo apt install python3
+python3 -m venv venv
+source venv/bin/activate
+```
+
+- Automates routine tasks  
+- Reduces manual effort  
+- Task planning handled by AI
+
+---
+
+### 4. Memory Persistence
+AetherShell saves session history and context in a structured format (`aether_memory.json`).
+
+- Maintains task continuity  
+- Remembers prior commands  
+- Enables contextual conversations
+
+---
+
+### 5. Offline Capability
+All features work without an internet connection.
+
+- Fully self-contained  
+- No external API calls  
+- Perfect for private, secure environments
+
+---
+
+### 6. Optional Cloud Fallback (WIP)
+Future support for hybrid execution using cloud models when needed.
+
+- Seamless switch to cloud  
+- Useful for low-end systems  
+- Still prioritizes local-first privacy
+
+---
+
+### 7. Secure Execution Sandbox (WIP)
+AetherShell will feature isolated environments to run commands securely.
+
+- Limits system-level access  
+- Helps prevent accidental damage  
+- Ideal for testing and sandboxed execution
 
 ---
 
