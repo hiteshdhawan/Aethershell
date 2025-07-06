@@ -1,6 +1,7 @@
 # AetherShell
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
 [![Latest Release](https://img.shields.io/github/v/release/hiteshdhawan/Aethershell?label=Download%20Latest)](https://github.com/hiteshdhawan/Aethershell/releases)
 
 **AetherShell** is an AI-powered, offline Linux shell assistant that interprets natural language, plans tasks, and securely executes commands using a local LLM (Mistral-7B). Designed for privacy-first terminal automation.
